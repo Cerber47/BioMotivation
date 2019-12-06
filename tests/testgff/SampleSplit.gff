@@ -1,0 +1,7 @@
+##gff-version 3
+##sequence-region test 1 10
+test testBase testFeature 1 10 . + . ID=testSeq1;Name=noname;
+###
+##FASTA
+>test
+CAAAAAAAAT

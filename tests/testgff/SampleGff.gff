@@ -1,0 +1,4 @@
+2L	sim4_na_dbEST.diff.dmel	match_part	108588	108809	100	+	.	ID=:9754052_na_dbEST.diff.dmel;Name=:9754052;
+2L	NCBI_gnomon	match	108686	113539	.	+	.	ID=NCBI_gnomon:CG_NCBI_GNO_32003410_caf1;Name=hmm3410;
+2L	prosplign_aa_ncbi_other	match_part	119832	119990	22.64	-	.	ID=:ncbi_aa_935147_aa_ncbi_other;Name=:ncbi_aa_935147;
+2L	Drosophila_2	oligonucleotide	122901	122925	.	-	.	ID=1641004_a_at_2470_oligonucleotide;Name=1641004_a_at_2470;
